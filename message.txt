@@ -1,0 +1,4 @@
+this is my file
+message1
+ append to end of file
+ append to end of file
